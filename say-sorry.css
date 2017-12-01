@@ -9,7 +9,7 @@ html,body{
     height: 100%;
 }
 .text{
-    font-size: 90px;
+    font-size: 1.8rem;
     font-weight: bold;
     text-transform: uppercase;
     fill: none;
